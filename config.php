@@ -3,7 +3,7 @@ use Illuminate\Support\Str;
 
 return [
     'production' => false,
-    'baseUrl' => 'https://designresources-abc.netlify.app',
+    'baseUrl' => 'https://resources4webdev.netlify.app',
     'title' => 'Design resources for Developers',
     'description' => 'Design resources for Developers',
     'collections' => [    
