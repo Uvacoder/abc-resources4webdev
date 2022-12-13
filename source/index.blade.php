@@ -15,7 +15,7 @@
             </div>
          </a>
          <a class="flex items-center space-x-3 md:space-x-4" href="https://github.com/22940dev">
-            <img src="/assets/images/rob-owen.png" class="w-12 rounded-full md:w-14 ring-4 ring-gray-300" alt="@22940dev"/>
+            <img src="/assets/images/1i.WEBP" class="w-12 rounded-full md:w-14 ring-4 ring-gray-300" alt="@22940dev"/>
             <div>
                <div class="font-bold">Bill Lumberg</div>
                <div class="text-xs font-medium md:text-sm">idea + site</div>   
