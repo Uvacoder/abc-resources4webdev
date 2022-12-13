@@ -1,4 +1,4 @@
-<div class="w-full text-gray-700 bg-white dark-mode:text-gray-200 dark-mode:bg-gray-800">
+<div class="w-full text-blue-700 bg-white dark-mode:text-blue-200 dark-mode:bg-gray-800">
   <div x-data="{ open: false }" class="flex flex-col px-4 mx-auto max-w-screen-2xl md:items-center md:justify-between md:flex-row md:px-6 lg:px-8">
     <div class="flex flex-row items-center justify-between p-4">
       <a href="/" class="flex items-center space-x-2 text-lg font-semibold tracking-widest text-blue-600 uppercase rounded-lg dark-mode:text-white focus:outline-none focus:shadow-outline">
@@ -7,7 +7,7 @@
           <path d="M10.325 4.317c.426 -1.756 2.924 -1.756 3.35 0a1.724 1.724 0 0 0 2.573 1.066c1.543 -.94 3.31 .826 2.37 2.37a1.724 1.724 0 0 0 1.065 2.572c1.756 .426 1.756 2.924 0 3.35a1.724 1.724 0 0 0 -1.066 2.573c.94 1.543 -.826 3.31 -2.37 2.37a1.724 1.724 0 0 0 -2.572 1.065c-.426 1.756 -2.924 1.756 -3.35 0a1.724 1.724 0 0 0 -2.573 -1.066c-1.543 .94 -3.31 -.826 -2.37 -2.37a1.724 1.724 0 0 0 -1.065 -2.572c-1.756 -.426 -1.756 -2.924 0 -3.35a1.724 1.724 0 0 0 1.066 -2.573c-.94 -1.543 .826 -3.31 2.37 -2.37c1 .608 2.296 .07 2.572 -1.065z" />
           <circle cx="12" cy="12" r="3" />
         </svg>
-        <span class="text-sm text-gray-900 md:text-base">Resources 4 WebDev</span>
+        <span class="text-sm text-blue-900 md:text-base">Resources 4 WebDev</span>
       </a>
       <button class="rounded-lg md:hidden focus:outline-none focus:shadow-outline" @click="open = !open">
         <svg fill="currentColor" viewBox="0 0 20 20" class="w-6 h-6">
