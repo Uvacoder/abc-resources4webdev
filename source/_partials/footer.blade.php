@@ -10,7 +10,7 @@
                 <div class="hidden md:block">Follow me: </div>
                 <a href="https://twitter.com/VaLandscapes" class="flex items-center mx-1 space-x-2">
                     <img src="/assets/images/twitter.svg" alt="twitter">
-                    <div>AlecCam43544378</div>
+                    <div>VaLandscapes</div>
                 </a>
                 <a href="https://github.com/uvacoder" class="flex items-center mx-1 space-x-2">
                     <img src="/assets/images/github.svg" alt="github">
