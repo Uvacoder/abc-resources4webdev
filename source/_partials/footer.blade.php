@@ -1,5 +1,5 @@
 <!-- component -->
-<footer class="bg-blue-100">    
+<footer class="bg-gray-300">    
     <!-- Copyright Bar -->    
         <div class="flex flex-col items-center justify-between max-w-6xl px-3 py-4 m-auto text-xl text-white md:flex-row">
             <div class="text-sm">
